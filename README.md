@@ -57,8 +57,7 @@ Grafana → http://localhost:3000 (default: admin/admin)
 Loki → http://localhost:3100
 
 📊 Grafana Dashboard
-<img width="1907" height="957" alt="Screenshot 2025-09-08 111813" src="https://github.com/user-attachments/assets/f207efaf-c2ce-465a-bf29-da7238d792aa" />
-<img width="1913" height="937" alt="Screenshot 2025-09-08 111833" src="https://github.com/user-attachments/assets/92c4a026-f593-4645-93d5-7a4e913eb8ce" />
+
 
 
 🔮 Next Steps
